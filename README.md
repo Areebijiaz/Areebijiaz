@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Areeb Ejaz 👋</h1>
+<h1 align="center"> Areeb Ejaz here</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&width=500&lines=Design+Engineer;Flutter+Developer;UI%2FUX+Designer;Full-Stack+Developer;Problem+Solver" />
