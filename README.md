@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Areeb Ejaz 👋</h1>
+<h1 align="center">Areeb Ejaz</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&width=600&lines=Design+Engineer;Flutter+Developer;UI%2FUX+Designer;Full-Stack+Developer;AI+Enthusiast" />
@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎨 **Design Engineer** — bridging the gap between design and code
-- 💼 [Flutter Developer & UI/UX Designer | Building Scalable Mobile Apps & User-Centered Experiences | AI Enthusiast](https://www.linkedin.com/in/areeb-ejaz-068891343/)
-- 🎓 CS Student — 4th Semester
+**Design Engineer** focused on building scalable mobile applications and user-centered digital experiences. Currently pursuing a CS degree with hands-on experience across full-stack development, AI/ML, and embedded systems.
+
+[Flutter Developer & UI/UX Designer | Building Scalable Mobile Apps & User-Centered Experiences | AI Enthusiast](https://www.linkedin.com/in/areeb-ejaz-068891343/)
 
 ---
 
-## 📫 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/areeb-ejaz-068891343/">
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -48,15 +48,15 @@
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 🚗 | [Car Sale Management System](https://github.com/Areebijiaz/AutoDesk-DSA) | Linked list + stack recycle bin + dual BSTs for O(log n) search, RBAC login | C++ · DSA · BST |
-| 🦠 | [COVID-19 Severity Prediction](https://github.com/Areebijiaz/COVID-19-severity) | XGBoost ROC-AUC 0.999 — predicts hospitalization, ICU & mortality | Python · XGBoost · SMOTE |
-| ☕ | [Gaming Cafe System](https://github.com/Areebijiaz/gamingcafe) | PHP + MySQL cafe management with auto-billing & analytics | PHP · MySQL |
-| 🎬 | [StreamFlix — Netflix Clone](https://github.com/Areebijiaz/streamflix) | Vanilla JS Netflix clone — TMDB API, fuzzy search & PWA support | JavaScript · TMDB API · PWA |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Car Sale Management System](https://github.com/Areebijiaz/AutoDesk-DSA) | Linked list inventory, stack-based recycle bin, dual BSTs for O(log n) search by ID and price, role-based login, binary file persistence | C++ · DSA · BST |
+| [COVID-19 Severity Prediction](https://github.com/Areebijiaz/COVID-19-severity) | Multi-target ML pipeline on 3,000 patient records — XGBoost ROC-AUC 0.999, SMOTE balancing, 5-fold CV, predicts hospitalization, ICU admission and mortality | Python · XGBoost · SMOTE |
+| [Gaming Cafe Management System](https://github.com/Areebijiaz/gamingcafe) | PHP and MySQL cafe backend with session management, auto-billing, revenue analytics and stored procedures | PHP · MySQL |
+| [StreamFlix](https://github.com/Areebijiaz/streamflix) | Vanilla JS Netflix clone with TMDB API integration, custom fuzzy search engine, per-profile watch history, smart recommendations and PWA offline support | JavaScript · TMDB API · PWA |
 
 ---
 
-<p align="center">⭐ If you find my work useful, consider starring my repos!</p>
+<p align="center">If you find my work useful, consider starring my repositories.</p>
