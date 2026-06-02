@@ -1,7 +1,7 @@
-<h1 align="center"> Areeb Ejaz here</h1>
+<h1 align="center">Hi, I'm Areeb Ejaz 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&width=500&lines=Design+Engineer;Flutter+Developer;UI%2FUX+Designer;Full-Stack+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&center=true&width=600&lines=Design+Engineer;Flutter+Developer;UI%2FUX+Designer;Full-Stack+Developer;AI+Enthusiast" />
 </p>
 
 <p align="center">
@@ -13,11 +13,21 @@
 ## 🚀 About Me
 
 - 🎨 **Design Engineer** — bridging the gap between design and code
-- 📱 **Flutter Developer** — building beautiful cross-platform apps
-- 🖌️ **UI/UX Designer** — creating clean, user-centered experiences
-- 🎓 CS Student — 4th Semester @ University
-- 🌱 Currently exploring **React**, **AI/ML** & **Full-Stack Development**
-- 📍 Based in **Pakistan**
+- 💼 [Flutter Developer & UI/UX Designer | Building Scalable Mobile Apps & User-Centered Experiences | AI Enthusiast](https://www.linkedin.com/in/areeb-ejaz-068891343/)
+- 🎓 CS Student — 4th Semester
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/areeb-ejaz-068891343/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:areebali0201@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -38,57 +48,14 @@
 
 ---
 
-## 🌟 Projects — All 4 Semesters
+## 🌟 Featured Projects
 
-### 🟣 Semester 1
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 01 | 🤖 Line-Following Robot Car | Autonomous robot via dual IR sensors, L298N motor driver & Arduino differential drive | Arduino · IR Sensors · Embedded C |
-| 02 | 🌐 Car Selling Website | Frontend car dealership site with styled listings & product pages | HTML5 · CSS3 |
-| 03 | ⚙️ C / C++ Mini Projects | Console programs covering loops, functions, arrays & problem-solving | C · C++ |
-
-### 🔵 Semester 2
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 04 | 🅿️ Smart Parking System | IR/RFID-triggered servo boom barrier + auto garage door on custom road model | Arduino · Servo · DLD · PWM |
-| 05 | 🚘 Vehicle Management System | C++ console app with encapsulation, 100-object array & revenue reporting | C++ · OOP |
-
-### 🟢 Semester 3
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 06 | 🚗 [Car Sale Management System](https://github.com/Areebijiaz/AutoDesk-DSA) | Linked list + stack recycle bin + dual BSTs for O(log n) search, RBAC login | C++ · DSA · BST |
-| 07 | 🔒 Arduino Digital Lock | Keypad + LCD + servo + EEPROM + 60s lockout + GSM SMS OTP recovery | Arduino · GSM · FSM |
-| 08 | 💄 B-Onn Marketing Campaign | Live campaign — 1,000 followers & +111,300% views in 28 days via Meta Ads | Meta Ads · KPI · Content Strategy |
-
-### 🟡 Semester 4
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 09 | 🏥 HealthPredict AI | Full-stack AI symptom analyzer — 130+ symptoms, severity scores, Groq LLM | Python · Scikit-learn · React · Groq |
-| 10 | 🦠 [COVID-19 Severity Prediction](https://github.com/Areebijiaz/COVID-19-severity) | XGBoost ROC-AUC 0.999 — predicts hospitalization, ICU & mortality | Python · XGBoost · SMOTE |
-| 11 | ☕ [Gaming Cafe DB System](https://github.com/Areebijiaz/gamingcafe) | SQL Server backend with stored procedures, auto-billing triggers & analytics | PHP · MySQL · SQL Server |
-| 12 | 📋 HRMS — SRS Document | IEEE-standard SRS + full UML design — 8 modules, 5-role RBAC, GDPR specs | IEEE SRS · UML 2.x |
-| 13 | 🎬 [StreamFlix — Netflix Clone](https://github.com/Areebijiaz/streamflix) | Vanilla JS Netflix clone — TMDB API, fuzzy search, PWA + Service Worker | JavaScript · TMDB API · PWA |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Areebijiaz&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areebijiaz&layout=compact&theme=radical" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areebijiaz&theme=radical"/>
-</p>
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:areebali0201@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Areebijiaz)
+| 🚗 | [Car Sale Management System](https://github.com/Areebijiaz/AutoDesk-DSA) | Linked list + stack recycle bin + dual BSTs for O(log n) search, RBAC login | C++ · DSA · BST |
+| 🦠 | [COVID-19 Severity Prediction](https://github.com/Areebijiaz/COVID-19-severity) | XGBoost ROC-AUC 0.999 — predicts hospitalization, ICU & mortality | Python · XGBoost · SMOTE |
+| ☕ | [Gaming Cafe System](https://github.com/Areebijiaz/gamingcafe) | PHP + MySQL cafe management with auto-billing & analytics | PHP · MySQL |
+| 🎬 | [StreamFlix — Netflix Clone](https://github.com/Areebijiaz/streamflix) | Vanilla JS Netflix clone — TMDB API, fuzzy search & PWA support | JavaScript · TMDB API · PWA |
 
 ---
 
