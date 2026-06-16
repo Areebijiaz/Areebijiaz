@@ -5,7 +5,7 @@
 
 ### Full Stack Developer
 
-Building scalable web and mobile applications with React, Node.js, and Flutter while exploring AI-powered solutions.
+Building scalable web and mobile applications with React, Node.js, and Flutter.
 
 </div>
 
@@ -13,40 +13,44 @@ Building scalable web and mobile applications with React, Node.js, and Flutter w
 
 ## About Me
 
-- 🎓 Pursuing a **Bachelor of Science in Computer Science** at **Superior University, Lahore** (2024 – 2028)
-- 💼 Working as a **Full Stack Development Intern at CodeAlpha**, developing applications using React, Node.js, JavaScript, and MongoDB
-- 🎨 Completing a **UI/UX Design Internship**, creating interactive and user-centered application prototypes
-- 🔐 Active member of **IEEE Computer Society Superior** and the **Cyber Security Society**
-- 🌱 Continuously learning modern full stack technologies, product design principles, and software engineering best practices
-- ⚡ Passionate about transforming ideas into polished, production-ready digital experiences
+- 🎓 BSCS Student at **Superior University, Lahore** (2024 – 2028)
+- 💼 Full Stack Development Intern at **CodeAlpha**, working with React, Node.js, JavaScript, and MongoDB
+- 🎨 UI/UX Design Intern, creating interactive and user-centered application prototypes
+- 🔐 Active member of **IEEE CS Superior** and the **Cyber Security Society**
+- 🌱 Continuously exploring modern full stack technologies and product design
+- ⚡ Passionate about transforming ideas into polished, production-ready experiences
 
 ---
 
 ## Tech Stack
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,html,css" alt="Languages" />
 
-### Frontend Development
+### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma" alt="Frontend" />
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Backend & Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="Backend" />
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" alt="Tools" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -54,33 +58,33 @@ Building scalable web and mobile applications with React, Node.js, and Flutter w
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### StreamFlix
-Modern movie streaming platform featuring TMDB API integration, responsive design, and deployment on Vercel.
 
-**Tech Stack:** JavaScript • TMDB API • HTML • CSS
+Modern movie streaming interface integrated with the TMDB API and deployed on Vercel.
+
+**Tech Stack:** JavaScript • HTML • CSS • TMDB API
 
 </td>
 
 <td width="50%" valign="top">
 
 ### HireHub HRMS
-A complete Human Resource Management System designed to streamline employee and organizational operations.
+
+Human Resource Management System designed to streamline employee and organizational workflows.
 
 **Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### ArenaHub
-Database-driven gaming venue management system with efficient data handling and reporting capabilities.
+
+Database-driven gaming venue management system focused on efficient operations and reporting.
 
 **Tech Stack:** MS SQL Server • T-SQL
 
@@ -89,12 +93,12 @@ Database-driven gaming venue management system with efficient data handling and 
 <td width="50%" valign="top">
 
 ### SecureVault
+
 Smart door lock solution featuring OTP-based authentication for enhanced security.
 
 **Tech Stack:** Arduino • Python
 
 </td>
-
 </tr>
 </table>
 
@@ -102,7 +106,6 @@ Smart door lock solution featuring OTP-based authentication for enhanced securit
 
 ## Let's Connect
 
-<p align="left">
-Open to collaborating on innovative projects, full stack development opportunities, and creating impactful digital experiences.
-</p>
+I'm always interested in collaborating on innovative projects, contributing to impactful products, and connecting with fellow developers and tech enthusiasts.
+
 ```
