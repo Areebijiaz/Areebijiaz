@@ -1,81 +1,108 @@
+```markdown
 <div align="center">
-Hi, I'm Areeb 👋
 
-Building Secure, Scalable & Intelligent Solutions Through Technology
+# Hi, I'm Areeb
 
-Show Image
-Show Image
-Show Image
+### Full Stack Developer
+
+Building scalable web and mobile applications with React, Node.js, and Flutter while exploring AI-powered solutions.
 
 </div>
 
-About Me
+---
 
+## About Me
 
-🎓 BSCS student at Superior University, Lahore (2024 – 2028)
-💻 Full Stack Development Intern at CodeAlpha, working with React, Node.js, JavaScript, and MongoDB
-🎨 Completing a UI/UX Design Internship, designing fully interactive app prototypes
-🔐 Active member of IEEE CS Superior and the Cyber Security Society
-🌱 Exploring full stack development and product design
-⚡ Fun fact: I enjoy turning rough ideas into polished, production-ready interfaces
+- 🎓 Pursuing a **Bachelor of Science in Computer Science** at **Superior University, Lahore** (2024 – 2028)
+- 💼 Working as a **Full Stack Development Intern at CodeAlpha**, developing applications using React, Node.js, JavaScript, and MongoDB
+- 🎨 Completing a **UI/UX Design Internship**, creating interactive and user-centered application prototypes
+- 🔐 Active member of **IEEE Computer Society Superior** and the **Cyber Security Society**
+- 🌱 Continuously learning modern full stack technologies, product design principles, and software engineering best practices
+- ⚡ Passionate about transforming ideas into polished, production-ready digital experiences
 
+---
 
+## Tech Stack
 
-Tech Stack
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,html,css" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" />
+</p>
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
-<td valign="top" width="50%">
-Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,php,dart,html,css" alt="languages" />
-Frontend
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,figma" alt="frontend" />
+### StreamFlix
+Modern movie streaming platform featuring TMDB API integration, responsive design, and deployment on Vercel.
+
+**Tech Stack:** JavaScript • TMDB API • HTML • CSS
+
 </td>
-<td valign="top" width="50%">
-Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="backend" />
-Tools & Platforms
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma" alt="tools" />
+### HireHub HRMS
+A complete Human Resource Management System designed to streamline employee and organizational operations.
+
+**Tech Stack:** HTML • CSS • JavaScript • PHP • MySQL
+
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ArenaHub
+Database-driven gaming venue management system with efficient data handling and reporting capabilities.
+
+**Tech Stack:** MS SQL Server • T-SQL
+
+</td>
+
+<td width="50%" valign="top">
+
+### SecureVault
+Smart door lock solution featuring OTP-based authentication for enhanced security.
+
+**Tech Stack:** Arduino • Python
+
+</td>
+
 </tr>
 </table>
 
-Featured Projects
+---
 
-<table>
-<tr>
-<td width="50%">
-<table>
-<tr>
-<td width="50%">
-🎬 StreamFlix
-Movie streaming UI, deployed on Vercel
-JavaScript TMDB API
+## Let's Connect
 
-</td>
-<td width="50%">
-👥 HireHub HRMS
-Human resource management system
-HTML CSS JS PHP MySQL
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-🎮 ArenaHub
-Gaming venue database management system
-MS SQL Server T-SQL
-
-</td>
-<td width="50%">
-🔒 SecureVault
-OTP-based smart door lock system
-Arduino Python
-
-</td>
-</tr>
-</table>
+<p align="left">
+Open to collaborating on innovative projects, full stack development opportunities, and creating impactful digital experiences.
+</p>
+```
