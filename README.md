@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Hi%20there,%20I'm%20Areeb%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=200&section=header&text=Hi%20there,%20I'm%20Areeb%20
+ &fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 ### Building Secure, Scalable & Intelligent Solutions Through Technology
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/areebijiaz)
@@ -10,9 +11,9 @@
 </div>
 ---
  
-## 👨‍💻 About Me
+##  About Me
  
-```yaml
+yaml
 name: Areeb
 role: Full Stack Developer & UI/UX Designer
 education: BSCS, Superior University, Lahore (2024 - 2028)
@@ -25,7 +26,7 @@ fun_fact: "I enjoy turning rough ideas into polished, production-ready interface
  
 ---
  
-## 🛠️ Tech Stack
+## Tech Stack
  
 <table align="center">
 <tr>
