@@ -5,13 +5,13 @@
 <h3>Building scalable web & mobile products from concept to production.</h3>
 
 <p>
-  <a href="https://areeb-ejaz.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://areebejaz.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/areeb-ejaz-068891343">
+  <a href="https://www.linkedin.com/in/areeb-ejaz">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://medium.com/@areebejaz">
+  <a href="https://medium.com/@areebali2325">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="mailto:areebali2325@gmail.com">
@@ -27,7 +27,7 @@
 
 I'm a **Computer Science student at Superior University Lahore (2024–2028)** focused on building modern web and mobile applications.
 
-My work sits at the intersection of **software engineering, product design, and user experience**. I enjoy taking an idea from requirements and Figma designs through architecture, development, API integration, testing, and deployment.
+My work sits at the intersection of **software engineering, product development, and user experience**. I enjoy taking ideas from requirements and Figma designs through architecture, development, API integration, testing, and deployment.
 
 My primary areas of focus are:
 
@@ -38,13 +38,14 @@ My primary areas of focus are:
 - UI/UX Design & Design Systems
 - AI/ML-Powered Applications
 
-Currently working on **InterviewX**, a technical hiring platform designed to streamline workflows for modern engineering recruitment teams.
+Currently developing **InterviewX**, a technical hiring platform designed to streamline workflows for modern engineering recruitment teams.
 
 ---
 
 ## Experience
 
 ### Brand Ambassador — DataCrumbs
+
 **Jul 2026 – Present · Remote**
 
 Supporting community outreach, engagement, and promotion of DataCrumbs initiatives within student and technology communities.
@@ -54,8 +55,11 @@ Supporting community outreach, engagement, and promotion of DataCrumbs initiativ
 - Digital communication and networking
 - Collaboration on ambassador initiatives
 
+---
+
 ### Graphics Co-Head — Superior University
-**Jul 2026 – Present · Lahore**
+
+**Jul 2026 – Present · Lahore, Pakistan**
 
 Contributing to visual communication and creative direction for university activities, campaigns, events, and digital platforms.
 
@@ -66,7 +70,10 @@ Contributing to visual communication and creative direction for university activ
 - Event and promotional graphics
 - Maintaining consistent visual identity
 
+---
+
 ### Mobile App Developer Intern — Innoviast
+
 **Jun 2026 – Jul 2026 · Remote**
 
 Contributed to Flutter-based mobile application development with a focus on UI implementation, application functionality, API integration, testing, and user experience.
@@ -379,21 +386,35 @@ Participating in the local developer community and technology-focused initiative
 
 ---
 
+# Get in Touch
+
 <div align="center">
 
-## Let's Build Something Meaningful
-
-I'm interested in **software engineering, product development, mobile applications, scalable web platforms, and thoughtful user experiences.**
+I'm open to **software development opportunities, collaborations, freelance projects, internships, and meaningful technology initiatives.**
 
 <br />
 
-<a href="https://areeb-ejaz.vercel.app">
+<a href="https://areebejaz.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="mailto:areebali2325@gmail.com">
-<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://www.linkedin.com/in/areeb-ejaz">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<a href="https://medium.com/@areebali2325">
+<img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+
+<a href="mailto:areebali2325@gmail.com">
+<img src="https://img.shields.io/badge/Email-areebali2325%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br /><br />
+
+**Phone:** +92 312 4061260
+
+**Location:** Lahore, Pakistan
 
 <br /><br />
 
