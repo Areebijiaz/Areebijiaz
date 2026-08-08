@@ -1,25 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=190&section=header&text=Areeb%20Ejaz&fontSize=50&fontColor=e6edf3&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16&descColor=8b949e&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=200&section=header&text=Areeb%20Ejaz&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Flutter%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=62&descSize=16&descColor=8b949e&animation=fadeIn" />
 
-### Building scalable products across web, mobile & AI.
+<h3>Building scalable web & mobile products from concept to production.</h3>
 
 <p>
-<a href="https://linkedin.com/in/areeb-ejaz-068891343">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://areeb-ejaz.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-161b22?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://medium.com/@areebejaz">
-<img src="https://img.shields.io/badge/Medium-161b22?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:areebali2325@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://areeb-ejaz.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/areeb-ejaz-068891343">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@areebejaz">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:areebali2325@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -28,313 +25,331 @@
 
 ## About
 
-I'm a **Computer Science student at Superior University Lahore (2024–2028)** focused on building modern, scalable digital products.
+I'm a **Computer Science student at Superior University Lahore (2024–2028)** focused on building modern web and mobile applications.
 
-My experience spans **Flutter mobile development, full-stack web applications, AI/ML systems, UI/UX design, and embedded systems**. I enjoy taking products from an initial idea and Figma prototype to a functional, polished, and deployable application.
+My work sits at the intersection of **software engineering, product design, and user experience**. I enjoy taking an idea from requirements and Figma designs through architecture, development, API integration, testing, and deployment.
 
-Currently, I'm working across multiple development internships while building **InterviewX**, an enterprise SaaS platform for technical hiring teams.
+My primary areas of focus are:
 
-### What I Focus On
+- Full Stack Web Development
+- Flutter & Cross-Platform Mobile Development
+- TypeScript & React
+- Firebase & Backend Development
+- UI/UX Design & Design Systems
+- AI/ML-Powered Applications
 
-```text
-Mobile Development     → Flutter • Dart • Firebase • Riverpod
-Full Stack Development → TypeScript • React • Node.js • PostgreSQL
-UI/UX                  → Figma • Design Systems • Responsive Interfaces
-AI / ML                → Python • Scikit-learn • XGBoost • LLM APIs
-Engineering            → Architecture • APIs • Git • Deployment
-```
-
----
-
-## Developer Snapshot
-
-```dart
-class AreebEjaz {
-  final String role =
-      "Full Stack Developer • Flutter Developer • UI/UX Designer";
-
-  final String education =
-      "BS Computer Science — Superior University Lahore (2024–2028)";
-
-  final String location = "Lahore, Pakistan";
-
-  final List<String> currentRoles = [
-    "Mobile App Developer @ Innoviast IT Solutions",
-    "Mobile App Developer @ Teyzix Core",
-    "Full Stack Developer @ CodeAlpha",
-  ];
-
-  final List<String> communities = [
-    "ACM — Graphic Head, Superior University",
-    "IEEE CS Superior — Active Member",
-    "Cyber Security Society — Active Member",
-    "GDG Cloud Lahore — Community Contributor",
-  ];
-
-  final List<String> interests = [
-    "Scalable Application Architecture",
-    "Flutter & Cross-Platform Development",
-    "TypeScript & Full Stack Engineering",
-    "UI Systems & Product Design",
-    "AI-Powered Applications",
-  ];
-}
-```
+Currently working on **InterviewX**, a technical hiring platform designed to streamline workflows for modern engineering recruitment teams.
 
 ---
 
-## Tech Stack
+## Experience
+
+### Brand Ambassador — DataCrumbs
+**Jul 2026 – Present · Remote**
+
+Supporting community outreach, engagement, and promotion of DataCrumbs initiatives within student and technology communities.
+
+- Community engagement and outreach
+- Promotion of technical programs and opportunities
+- Digital communication and networking
+- Collaboration on ambassador initiatives
+
+### Graphics Co-Head — Superior University
+**Jul 2026 – Present · Lahore**
+
+Contributing to visual communication and creative direction for university activities, campaigns, events, and digital platforms.
+
+- Social media and campaign design
+- Visual communication
+- Figma-based design
+- Creative direction
+- Event and promotional graphics
+- Maintaining consistent visual identity
+
+### Mobile App Developer Intern — Innoviast
+**Jun 2026 – Jul 2026 · Remote**
+
+Contributed to Flutter-based mobile application development with a focus on UI implementation, application functionality, API integration, testing, and user experience.
+
+- Flutter & Dart development
+- Responsive UI implementation
+- API integration
+- Reusable components
+- Debugging and testing
+- Git-based development workflows
+
+---
+
+## Technical Skills
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,dart,python,php,cpp,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,js,dart,python,php,cpp&theme=dark" />
 </p>
 
 ### Frontend & Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,react,vite,tailwind,bootstrap,html,css&theme=dark" />
 </p>
 
 ### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgresql,mysql&theme=dark" />
 </p>
 
-### Design, DevOps & Tools
+### Design & Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=figma,git,github,vercel,vscode,linux,docker,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,git,github,docker,postman,vercel,vscode,linux&theme=dark" />
 </p>
 
 ---
 
-## Featured Projects
+## Core Competencies
 
-<table>
-<tr>
+| Area | Technologies & Concepts |
+| :--- | :--- |
+| **Mobile Development** | Flutter, Dart, Riverpod, Firebase |
+| **Frontend Development** | React, TypeScript, JavaScript, Tailwind CSS |
+| **Backend Development** | Node.js, Express.js, REST APIs |
+| **Databases** | PostgreSQL, MySQL, Firebase |
+| **UI/UX** | Figma, Design Systems, Responsive Design |
+| **AI / Machine Learning** | Python, Scikit-learn, XGBoost, LLM APIs |
+| **Engineering** | Git, GitHub, Docker, API Integration, Deployment |
 
-<td width="50%" valign="top">
+---
 
-<h3>InterviewX</h3>
+# Featured Projects
+
+## InterviewX
+
+### Technical Hiring Platform
 
 <a href="https://github.com/Areebijiaz/interviewx">
-<img src="https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br /><br />
+InterviewX is a SaaS platform designed to improve technical hiring workflows for engineering teams.
 
-Enterprise SaaS platform designed for technical hiring teams.
+### Engineering Focus
 
-Built with a feature-based architecture and focused on scalable engineering patterns, shared UI systems, global search, command palette, notification management, and recruiter workflows.
+- Feature-based TypeScript architecture
+- Reusable component system
+- Shared design system
+- Global search
+- Command palette
+- Notification center
+- Scalable application structure
+- Recruitment-focused workflows
 
-<br /><br />
+**Stack:** TypeScript · React · Node.js
 
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs&theme=dark" />
+**Status:** In Development
 
-<br /><br />
+---
 
-<img src="https://img.shields.io/badge/Status-In%20Progress-f0a500?style=flat-square" />
+## Fudo
 
-</td>
-
-<td width="50%" valign="top">
-
-<h3>Fudo</h3>
+### Food Delivery Application
 
 <a href="https://github.com/Areebijiaz/fudo">
-<img src="https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br /><br />
+A Flutter-based food delivery application built around reusable components, real-time backend services, and scalable mobile architecture.
 
-Modern food delivery application built with Flutter and Firebase.
+### Engineering Focus
 
-Features a reusable design system, Riverpod state management, GoRouter navigation, real-time backend infrastructure, and scalable application architecture.
+- Flutter application architecture
+- Riverpod state management
+- GoRouter navigation
+- Firebase backend
+- Reusable design system
+- Figma-to-Flutter implementation
+- Real-time application workflows
 
-<br /><br />
+**Stack:** Flutter · Dart · Firebase · Riverpod · Figma
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,figma&theme=dark" />
+**Status:** Completed
 
-<br /><br />
+---
 
-<img src="https://img.shields.io/badge/Status-Completed-2ea043?style=flat-square" />
+## MediMind AI
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>MediMind AI</h3>
+### AI-Assisted Medical Analysis Platform
 
 <a href="https://github.com/Areebijiaz/medimind-ai">
-<img src="https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br /><br />
+An AI-assisted application combining machine learning-based analysis with LLM-powered recommendations.
 
-AI-assisted medical analysis platform combining machine learning with LLM-powered recommendations.
+### Engineering Focus
 
-React/Vite frontend connected to a Python machine learning backend and Groq API.
+- React/Vite frontend
+- Python machine learning backend
+- Scikit-learn classification
+- Groq API integration
+- API-driven architecture
+- AI-assisted user workflows
 
-<br /><br />
+**Stack:** React · Vite · Python · Scikit-learn · Groq API
 
-<img src="https://skillicons.dev/icons?i=react,python&theme=dark" />
+**Status:** Completed
 
-<br /><br />
+---
 
-<img src="https://img.shields.io/badge/Groq%20API-00A67E?style=flat-square" />
+## MedRisk AI
 
-</td>
-
-<td width="50%" valign="top">
-
-<h3>MedRisk AI</h3>
+### Machine Learning Risk Stratification
 
 <a href="https://github.com/Areebijiaz/medrisk-ai">
-<img src="https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br /><br />
+Machine learning pipeline for patient risk classification using XGBoost and SMOTE.
 
-Machine learning pipeline for patient risk stratification using XGBoost, SMOTE, and stratified 5-fold cross-validation.
+### Technical Highlights
 
-Achieved a **0.999 ROC-AUC** score on the evaluated test set.
+- XGBoost classification
+- SMOTE-based class balancing
+- Stratified 5-fold cross-validation
+- Model evaluation and validation
+- **0.999 ROC-AUC on the evaluated test set**
 
-<br /><br />
+**Stack:** Python · XGBoost · Scikit-learn
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+**Status:** Completed
 
-<br /><br />
+---
 
-<img src="https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square" />
-<img src="https://img.shields.io/badge/ROC--AUC-0.999-2ea043?style=flat-square" />
+## StreamFlix
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>StreamFlix</h3>
+### Progressive Web Application
 
 <a href="https://github.com/Areebijiaz/streamflix">
-<img src="https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br /><br />
+A Netflix-inspired Progressive Web App focused on responsive content discovery and offline functionality.
 
-Netflix-inspired Progressive Web App with responsive browsing, search, offline functionality, service-worker caching, and live movie data through TMDB.
+### Features
 
-<br /><br />
+- TMDB API integration
+- Service worker architecture
+- Offline support
+- Responsive interface
+- Search functionality
+- Content discovery
+- Progressive Web App support
 
-<img src="https://skillicons.dev/icons?i=js,html,css&theme=dark" />
+**Stack:** JavaScript · HTML · CSS · PWA · TMDB API
 
-<br /><br />
+**Status:** Completed
 
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" />
-<img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square" />
+---
 
-</td>
+## SecureVault
 
-<td width="50%" valign="top">
-
-<h3>SecureVault</h3>
+### Embedded Security System
 
 <a href="https://github.com/Areebijiaz/securevault">
-<img src="https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br /><br />
+Arduino-based access control system combining multiple authentication and recovery mechanisms.
 
-Arduino-based smart security system featuring OTP authentication, GSM recovery, and biometric access control.
+### Features
 
-Hardware and firmware developed using C++ and Arduino.
+- OTP authentication
+- Biometric access
+- GSM-based recovery
+- Embedded firmware
+- Hardware/software integration
 
-<br /><br />
+**Stack:** Arduino · C++ · GSM · Embedded Systems
 
-<img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" />
+**Status:** Completed
 
-<br /><br />
+---
 
-<img src="https://img.shields.io/badge/OTP%20Authentication-161b22?style=flat-square" />
-<img src="https://img.shields.io/badge/GSM%20Recovery-161b22?style=flat-square" />
+## ArenaHub
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>ArenaHub</h3>
+### Gaming Cafe Management System
 
 <a href="https://github.com/Areebijiaz/arenahub">
-<img src="https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br /><br />
+Management platform designed to handle gaming cafe operations.
 
-Complete gaming cafe management system covering bookings, billing, session tracking, and administrative operations.
+### Features
 
-Built with PHP and MySQL.
+- Booking management
+- Billing
+- Session tracking
+- Administrative dashboard
+- Database-driven workflows
 
-<br /><br />
+**Stack:** PHP · MySQL · HTML · CSS
 
-<img src="https://skillicons.dev/icons?i=php,mysql,html,css&theme=dark" />
+**Status:** Completed
 
-</td>
+---
 
-<td width="50%" valign="top">
+## HireHub AI
 
-<h3>HireHub AI</h3>
+### AI-Assisted Recruitment Platform
 
 <a href="https://github.com/Areebijiaz/hirehub">
-<img src="https://img.shields.io/badge/View%20Repository-161b22?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/View%20Repository-161b22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br /><br />
+Recruitment platform featuring candidate matching, employer dashboards, recruiter workflows, and a documented UI/UX case study.
 
-AI-assisted recruitment platform with candidate matching, employer dashboards, recruiter workflows, and a complete UI/UX case study.
+### Features
 
-<br /><br />
+- Candidate matching
+- Employer dashboard
+- Recruiter workflow
+- Job management
+- UI/UX design system
+- Recruitment-focused user experience
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,figma&theme=dark" />
+**Stack:** React · Node.js · MySQL · Figma
 
-</td>
-
-</tr>
-</table>
-
----
-
-## Engineering Interests
-
-<div align="center">
-
-| Area            | Focus                                        |
-| --------------- | -------------------------------------------- |
-| **Mobile**      | Flutter, Dart, Firebase, Riverpod            |
-| **Frontend**    | React, TypeScript, Tailwind, UI Systems      |
-| **Backend**     | Node.js, Express, REST APIs                  |
-| **Databases**   | PostgreSQL, MySQL, Firebase                  |
-| **AI / ML**     | Python, XGBoost, Scikit-learn, LLM APIs      |
-| **Design**      | Figma, Design Systems, UX Architecture       |
-| **Engineering** | Clean Architecture, Git, Testing, Deployment |
-
-</div>
+**Status:** Completed
 
 ---
 
-## GitHub Activity
+# Community & Leadership
+
+### ACM — Superior University
+**Graphics Co-Head**
+
+Contributing to visual communication, creative direction, and digital content for the ACM community.
+
+### IEEE Computer Society — Superior
+**Active Member**
+
+Participating in technical and professional community activities.
+
+### Cyber Security Society — Superior University
+**Active Member**
+
+Engaging with cybersecurity-focused technical activities and initiatives.
+
+### GDG Cloud Lahore
+**Community Contributor**
+
+Participating in the local developer community and technology-focused initiatives.
+
+---
+
+# GitHub Statistics
 
 <div align="center">
 
@@ -352,7 +367,9 @@ AI-assisted recruitment platform with candidate matching, employer dashboards, r
 
 </div>
 
-<br />
+---
+
+# GitHub Activity
 
 <div align="center">
 
@@ -362,30 +379,24 @@ AI-assisted recruitment platform with candidate matching, employer dashboards, r
 
 ---
 
-## Let's Build Something Great
-
 <div align="center">
 
-I'm interested in building **scalable products, polished user experiences, and meaningful software solutions.**
+## Let's Build Something Meaningful
+
+I'm interested in **software engineering, product development, mobile applications, scalable web platforms, and thoughtful user experiences.**
 
 <br />
 
 <a href="https://areeb-ejaz.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
-
- 
 
 <a href="mailto:areebali2325@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br /><br />
 
-<br />
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=110&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=100&section=footer" />
 
 </div>
