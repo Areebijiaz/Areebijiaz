@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="I design what I build. I build what I design." width="100%">
+</p>
+
 <h1 align="center">Areeb Ejaz</h1>
 
 <p align="center">
@@ -27,17 +31,17 @@ Full-stack developer and designer who turns problems into shipped products, from
 
 User Experience Design (UED) • Mobile Application Development • Usability Testing • Problem Solving
 
-### Tech Stack
+### Languages & Frameworks
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nextjs,ts,nodejs,firebase,py&perline=8" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,docker,postman,vercel,vscode,linux&perline=8" />
+</p>
 
 ### Our Services
 
