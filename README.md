@@ -1,46 +1,51 @@
 <h1 align="center">Areeb Ejaz</h1>
 
 <p align="center">
-  Full Stack Developer | Flutter Developer | UI/UX Designer<br>
-  BSCS student at Superior University Lahore
+  Full Stack & Flutter Developer | Turning Figma Designs into Production-Ready Apps | ACM Graphics Co-Head
 </p>
 
 <p align="center">
-  <a href="https://areebejaz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="https://medium.com/@areebali2325"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://instagram.com/areebejaz.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/areeb-ejaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/areebejaz.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://areebejaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://medium.com/@areebejaz.dev"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 ---
 
 ### About
-I build mobile and web products across Flutter, React, and Next.js, with a focus on clean architecture and thoughtful UI. I am currently looking for internship and collaboration opportunities.
 
-### Current Focus
-- **InterviewX**: AI-powered interview coaching platform, built in Flutter and React
-- Alibaba Cloud AI Hackathon Pakistan 2026: selected, preparing for the next stage
+Full Stack and Flutter Developer who designs the experience, architects the backend, and ships the final product.
 
-### Recent Work
-- **EduMind AI**: on-device AI learning assistant built with Gemma and Ollama
-- **Fudo**: Flutter food delivery app using Firebase, Riverpod, and GoRouter
-- **Chadar by Rida**: e-commerce site and AI chatbot built with the Anthropic API
-- Competed in the ICSC 2026 Qualification Round, representing Superior University
-- Completed a 6-week internship at Alkhidmat Foundation Pakistan
+13+ projects across AI/ML, embedded systems, web, and mobile. From real-time chat apps to a production-grade food delivery platform. Currently building InterviewX, an enterprise SaaS for technical hiring teams, with a feature-based TypeScript architecture and a custom shared design system.
+
+Brand Ambassador at DataCrumbs. ACM Graphics Co-Head at Superior University Lahore. BSCS 2024-2028.
+
+Full-stack developer and designer who turns problems into shipped products, from wireframe to deployment, on web and mobile. Looking for a fast-moving team that cares about quality.
+
+### Top Skills
+
+User Experience Design (UED) • Mobile Application Development • Usability Testing • Problem Solving
 
 ### Tech Stack
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### Community
-- FlutterFlow Student Ambassador
-- Graphic Head, ACM Superior University
-- Member, IEEE CS Superior and Cyber Security Society
+### Our Services
 
-### Contact
-Open to internships, collaborations, and freelance work. Reach me through my [portfolio](https://areebejaz.vercel.app).
+- Web Development
+- Custom Software Development
+- Mobile Application Development
+- User Experience Design (UED)
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/areeb-ejaz/) | [Instagram](https://www.instagram.com/areebejaz.dev) | [Portfolio](https://areebejaz.vercel.app/) | [Medium](https://medium.com/@areebejaz.dev)
