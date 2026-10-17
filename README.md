@@ -1,1 +1,41 @@
---- # GitHub Activity <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Areebijiaz&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" /> </div> --- # Get in Touch <div align="center"> I'm open to **software development opportunities, collaborations, freelance projects, internships, and meaningful technology initiatives.** <br /> <a href="https://areebejaz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-58a6ff?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://www.linkedin.com/in/areeb-ejaz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@areebali2325"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="mailto:areebali2325@gmail.com"><img src="https://img.shields.io/badge/Email-areebali2325%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> <br /><br /> **Phone:** +92 312 4061260 **Location:** Lahore, Pakistan <br /><br /> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b27,100:0d1117&height=100&section=footer" /> </div> 
+<h1 align="center">Hi, I'm Areeb Ejaz 👋</h1>
+
+<p align="center">
+  Full Stack Developer · Flutter Developer · UI/UX Designer<br>
+  BSCS student at Superior University Lahore, building products people actually use.
+</p>
+
+<p align="center">
+  <a href="https://areebejaz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://medium.com/@areebali2325"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://instagram.com/areebejaz.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+### 🚀 What I'm working on
+- **InterviewX**: an AI-powered interview coaching platform (Flutter + React)
+
+### 🛠️ Tech stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 🌱 Community
+- FlutterFlow Student Ambassador
+- Graphic Head, ACM Superior University
+- Member, IEEE CS Superior and Cyber Security Society
+
+### 📊 GitHub stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Areebijiaz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areebijiaz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📫 Let's connect
+Open to internships, collaborations, and freelance work. Reach me via my [portfolio](https://areebejaz.vercel.app).
