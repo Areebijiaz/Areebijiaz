@@ -50,6 +50,6 @@ A full-stack developer and designer who turns problems into shipped products, fr
 
 ---
 
-## Connect
+## Connect Us:
 
 [LinkedIn](https://www.linkedin.com/in/areeb-ejaz/) | [Instagram](https://www.instagram.com/areebejaz.dev) | [Portfolio](https://areebejaz.vercel.app/) | [Medium](https://medium.com/@areebejaz.dev)
