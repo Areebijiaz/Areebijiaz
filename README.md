@@ -48,13 +48,6 @@ A full-stack developer and designer who turns problems into shipped products, fr
 
 ---
 
-## Services
-
-| | |
-|---|---|
-| **Web Development** | **Mobile Application Development** |
-| **Custom Software Development** | **User Experience Design** |
-
 ---
 
 ## Connect
