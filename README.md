@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Areeb Ejaz 👋</h1>
+<h1 align="center">Areeb Ejaz</h1>
 
 <p align="center">
-  Full Stack Developer · Flutter Developer · UI/UX Designer<br>
-  BSCS student at Superior University Lahore, building products people actually use.
+  Full Stack Developer | Flutter Developer | UI/UX Designer<br>
+  BSCS student at Superior University Lahore
 </p>
 
 <p align="center">
@@ -13,29 +13,34 @@
 
 ---
 
-### 🚀 What I'm working on
-- **InterviewX**: an AI-powered interview coaching platform (Flutter + React)
+### About
+I build mobile and web products across Flutter, React, and Next.js, with a focus on clean architecture and thoughtful UI. I am currently looking for internship and collaboration opportunities.
 
-### 🛠️ Tech stack
+### Current Focus
+- **InterviewX**: AI-powered interview coaching platform, built in Flutter and React
+- Alibaba Cloud AI Hackathon Pakistan 2026: selected, preparing for the next stage
+
+### Recent Work
+- **EduMind AI**: on-device AI learning assistant built with Gemma and Ollama
+- **Fudo**: Flutter food delivery app using Firebase, Riverpod, and GoRouter
+- **Chadar by Rida**: e-commerce site and AI chatbot built with the Anthropic API
+- Competed in the ICSC 2026 Qualification Round, representing Superior University
+- Completed a 6-week internship at Alkhidmat Foundation Pakistan
+
+### Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🌱 Community
+### Community
 - FlutterFlow Student Ambassador
 - Graphic Head, ACM Superior University
 - Member, IEEE CS Superior and Cyber Security Society
 
-### 📊 GitHub stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Areebijiaz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areebijiaz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### 📫 Let's connect
-Open to internships, collaborations, and freelance work. Reach me via my [portfolio](https://areebejaz.vercel.app).
+### Contact
+Open to internships, collaborations, and freelance work. Reach me through my [portfolio](https://areebejaz.vercel.app).
