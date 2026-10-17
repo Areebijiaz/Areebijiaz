@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="I design what I build. I build what I design." width="100%">
-</p>
 
 <h1 align="center">Areeb Ejaz</h1>
 
