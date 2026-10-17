@@ -5,7 +5,7 @@
 <h1 align="center">Areeb Ejaz</h1>
 
 <p align="center">
-  Full Stack & Flutter Developer | Turning Figma Designs into Production-Ready Apps 
+  Turning Figma Designs into Production-Ready Apps 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/areeb-ejaz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
