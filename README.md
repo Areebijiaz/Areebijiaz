@@ -19,7 +19,6 @@ Full Stack and Flutter Developer who designs the experience, architects the back
 
 I have built 13+ projects across AI/ML, embedded systems, web, and mobile, from real-time chat apps to a production-grade food delivery platform. I am currently building **InterviewX**, an enterprise SaaS for technical hiring teams, with a feature-based TypeScript architecture and a custom shared design system.
 
-Brand Ambassador at DataCrumbs and ACM Graphics Co-Head at Superior University Lahore. BSCS 2024-2028.
 
 A full-stack developer and designer who turns problems into shipped products, from wireframe to deployment, on web and mobile. Looking for a fast-moving team that cares about quality.
 
