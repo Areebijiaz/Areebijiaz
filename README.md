@@ -14,13 +14,11 @@
 ---
 
 ## About
+I’m a Full Stack and Flutter Developer who designs the experience, architects the backend, and ships the final product.
 
-Full Stack and Flutter Developer who designs the experience, architects the backend, and ships the final product.
+Over 13 projects across AI/ML, embedded systems, web, and mobile, from real-time chat apps to a production-grade food delivery platform. Right now I’m building InterviewX, an enterprise SaaS for technical hiring teams, using a feature-based TypeScript architecture and a custom shared design system.
 
-I have built 13+ projects across AI/ML, embedded systems, web, and mobile, from real-time chat apps to a production-grade food delivery platform. I am currently building **InterviewX**, an enterprise SaaS for technical hiring teams, with a feature-based TypeScript architecture and a custom shared design system.
-
-
-A full-stack developer and designer who turns problems into shipped products, from wireframe to deployment, on web and mobile. Looking for a fast-moving team that cares about quality.
+I turn problems into shipped products, from wireframe to deployment, on both web and mobile.
 
 ---
 
