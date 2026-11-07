@@ -14,7 +14,7 @@
 ---
 
 ## About
-I’m a Full Stack Developer | UI/UX Designer who designs the experience, architects the backend, and ships the final product.
+I’m a Full Stack Developer & UI/UX Designer who designs the experience, architects the backend, and ships the final product.
 
 Over 13 projects across AI/ML, embedded systems, web, and mobile, from real-time chat apps to a production-grade food delivery platform. Right now I’m building InterviewX, an enterprise SaaS for technical hiring teams, using a feature-based TypeScript architecture and a custom shared design system.
 
